@@ -1,1 +1,1 @@
-# intel-iot-devkit.github.io
+# intel-iot.github.io
